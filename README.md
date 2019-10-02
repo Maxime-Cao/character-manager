@@ -5,7 +5,7 @@
 
 Lien vers les [consignes](https://github.com/becodeorg/LIE-Jepsen-2.14/tree/master/02-the-hill/02-character-manager)
 
-Lien vers le [résultat]()
+Lien vers le [résultat](https://happy-franklin-dae7ee.netlify.com/)
 
 ## Problèmes rencontrés
 
