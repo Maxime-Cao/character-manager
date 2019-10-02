@@ -21,6 +21,13 @@ Nous avons rencontré des problèmes de comptabilité avec TypeScript et des pet
 
 * Typescript
 
+## Installation
+
+* Cloner le projet et se déplacer dans le projet
+* installer les packages NPM : `npm install`
+* Générer le build : `npm run start`
+* Accèder au site (via parcel) : `parcel index.html`
+
 ## Team
 
 *  [Maxime](https://github.com/Maxime-Cao) 
