@@ -28,6 +28,17 @@ Nous avons rencontré des problèmes de comptabilité avec TypeScript et des pet
 * Générer le build : `npm run start`
 * Accèder au site (via parcel) : `parcel index.html`
 
+## Functionnalité
+
+* Liste de tout les personnages
+* Création de personnage
+* Affichage détailler d'un personnage
+* Suppression d'un personnage (avec demande de confirmation)
+
+## Functionnalité manquante
+
+* Modification du personnage
+
 ## Team
 
 *  [Maxime](https://github.com/Maxime-Cao) 
