@@ -9,7 +9,7 @@ Lien vers le [résultat](https://happy-franklin-dae7ee.netlify.com/)
 
 ## Problèmes rencontrés
 
-Nous avons rencontré des problèmes de comptabilité avec TypeScript et des petits soucis au niveau du typage de certaines fonctions et variables.
+Nous avons rencontré des problèmes de compatibilité avec TypeScript et des petits soucis au niveau du typage de certaines fonctions et variables.
 
 ## Technologies utilisées
 
@@ -21,21 +21,21 @@ Nous avons rencontré des problèmes de comptabilité avec TypeScript et des pet
 
 * Typescript
 
-## Installation
+## Installations
 
 * Cloner le projet et se déplacer dans le projet
-* installer les packages NPM : `npm install`
+* Installer les packages NPM : `npm install`
 * Générer le build : `npm run start`
 * Accèder au site (via parcel) : `parcel index.html`
 
-## Functionnalité
+## Fonctionnalités
 
-* Liste de tout les personnages
-* Création de personnage
-* Affichage détailler d'un personnage
+* Liste de tous les personnages
+* Création de personnages
+* Affichage détaillé d'un personnage
 * Suppression d'un personnage (avec demande de confirmation)
 
-## Functionnalité manquante
+## Fonctionnalité manquante
 
 * Modification du personnage
 
